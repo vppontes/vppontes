@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=85&color=40E0D0&section=header&reversal=true&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60" width="100%"></img>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=85&color=40A0D0&section=header&reversal=true&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60" width="100%"></img>
 <!-- Conteúdo -->
 # Olá, me chamo Victor Pontes
 <img src="https://img.shields.io/static/v1?label=Overview&message=vppontes&color=40A0D0&style=for-the-badge&logo=GitHub" alt="Static GitHub">
